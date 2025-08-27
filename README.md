@@ -1,4 +1,1 @@
-🎓 Computer Science student at UNIVALI
-💻 Focused on compiler construction, lexical/syntactic analysis, and formal languages.
-🛠️ Projects in C++, Java and Python
-🚀 Always learning and exploring new areas in software engineering and low-level development.
+Computer Science student at Universidade do Vale do Itajaí - Univali | 8th period | experience in Python, C++, C#, SQL and Power Automate.
