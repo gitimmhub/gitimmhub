@@ -1,1 +1,1 @@
-Computer Science student at Universidade do Vale do Itajaí - Univali | 8th period | experience in Python, C++, C#, SQL and Power Automate.
+Computer Science student at Universidade do Vale do Itajaí - Univali | 10th period | experience in Python, C++, PHP, SQL, WordPress, Js.
