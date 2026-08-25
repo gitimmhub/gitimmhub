@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full+Stack;PHP+%E2%80%A2+JavaScript+%E2%80%A2+MySQL;CodeIgniter+%E2%80%A2+WordPress+%E2%80%A2+REST+APIs;R+%E2%80%A2+Automa%C3%A7%C3%A3o+%E2%80%A2+Ci%C3%AAncia+de+Dados" alt="Typing SVG com as principais tecnologias" />
 </div>
 
+<div align="center">
+  <img src="./assets/wizard-ninja-forest-duel-final.gif" width="100%" alt="Wizard versus ninja animation" />
+</div>
+
 <br>
 
 ## Sobre mim
@@ -82,18 +86,20 @@ Foco também em **R** para trabalhos academicos voltados à consolidação, padr
 Estou sempre aberto a trocar ideias sobre desenvolvimento web, automação, ciência de dados, open source e tecnologia.
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/matheus-barbi%C3%A9ri">
+    <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Barbi%C3%A9ri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
   <a href="https://github.com/gitimmhub">
-    <img src="https://img.shields.io/badge/GitHub-gitimmhub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de Matheus no GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-gitimmhub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/timmbarbieri/">
+    <img src="https://img.shields.io/badge/Instagram-@timmbarbieri-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
-<a href="https://www.linkedin.com/in/matheus-barbi%C3%A9ri">
-  <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Barbi%C3%A9ri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://www.instagram.com/timmbarbieri/">
-  <img src="https://img.shields.io/badge/Instagram-@timmbarbieri-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+<br>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=110&section=footer" alt="Rodapé decorativo" />
