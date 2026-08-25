@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full+Stack;PHP+%E2%80%A2+JavaScript+%E2%80%A2+MySQL;CodeIgniter+%E2%80%A2+WordPress+%E2%80%A2+REST+APIs;R+%E2%80%A2+Automa%C3%A7%C3%A3o+%E2%80%A2+Ci%C3%AAncia+de+Dados" alt="Typing SVG com as principais tecnologias" />
 </div>
 
-<div align="center">
-  <img src="./assets/wizard-ninja-forest-duel-final.gif" width="100%" alt="Wizard versus ninja animation" />
-</div>
-
 <br>
 
 ## Sobre mim
