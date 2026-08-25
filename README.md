@@ -67,14 +67,13 @@ Foco também em **R** para trabalhos academicos voltados à consolidação, padr
 ## Estatísticas
 
 <div align="center">
-  <img width="49%" height="195" src="https://github-readme-stats.vercel.app/api?username=gitimmhub&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&title_color=38BDF8&icon_color=A78BFA&text_color=C9D1D9&bg_color=0D1117&locale=pt-br" alt="Estatísticas do GitHub de Matheus" />
-  <img width="49%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitimmhub&layout=compact&langs_count=8&hide_border=true&title_color=38BDF8&text_color=C9D1D9&bg_color=0D1117&locale=pt-br" alt="Linguagens mais usadas por Matheus" />
-</div>
+  <img width="49%" height="195"
+    src="https://github-readme-stats.shion.dev/api?username=gitimmhub&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"
+    alt="Estatísticas do GitHub de Matheus" />
 
-<br>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=gitimmhub&bg_color=0D1117&color=38BDF8&line=A78BFA&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&custom_title=Gr%C3%A1fico%20de%20contribui%C3%A7%C3%B5es" alt="Gráfico de contribuições no GitHub" />
+  <img width="49%" height="195"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=gitimmhub&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br"
+    alt="Linguagens mais usadas por Matheus" />
 </div>
 
 ## Vamos conversar
