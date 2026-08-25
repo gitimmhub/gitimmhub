@@ -67,13 +67,9 @@ Foco também em **R** para trabalhos academicos voltados à consolidação, padr
 ## Estatísticas
 
 <div align="center">
-  <img width="49%" height="195"
-    src="https://github-readme-stats.shion.dev/api?username=gitimmhub&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"
+  <img width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gitimmhub&theme=github_dark"
     alt="Estatísticas do GitHub de Matheus" />
-
-  <img width="49%" height="195"
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=gitimmhub&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br"
-    alt="Linguagens mais usadas por Matheus" />
 </div>
 
 ## Vamos conversar
@@ -81,17 +77,9 @@ Foco também em **R** para trabalhos academicos voltados à consolidação, padr
 Estou sempre aberto a trocar ideias sobre desenvolvimento web, automação, ciência de dados, open source e tecnologia.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/matheus-barbi%C3%A9ri">
-    <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Barbi%C3%A9ri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/gitimmhub">
-    <img src="https://img.shields.io/badge/GitHub-gitimmhub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/timmbarbieri/">
-    <img src="https://img.shields.io/badge/Instagram-@timmbarbieri-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <a href="https://www.linkedin.com/in/matheus-barbi%C3%A9ri"><img src="https://img.shields.io/badge/LinkedIn-Matheus%20Barbi%C3%A9ri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/gitimmhub"><img src="https://img.shields.io/badge/GitHub-gitimmhub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/timmbarbieri/"><img src="https://img.shields.io/badge/Instagram-@timmbarbieri-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
 <br>
